@@ -1,5 +1,4 @@
 #  📊 Employee-attrition-prediction-HR-analytics-
-# 📊 HR Analytics & Employee Attrition Prediction
 
 ## 📝 Project Overview
 Employee attrition (resignations/turnover) is a major challenge for HR departments.  
